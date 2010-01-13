@@ -1,0 +1,13 @@
+C:\Users\pinvoke\Source\Sandbox\Rspec_Project_Runner\rspec_project_runner\bin\Debug\rspec_project_runner.exe
+C:\Users\pinvoke\Source\Sandbox\Rspec_Project_Runner\rspec_project_runner\bin\Debug\rspec_project_runner.pdb
+C:\Users\pinvoke\Source\Sandbox\Rspec_Project_Runner\rspec_project_runner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pinvoke\Source\Sandbox\Rspec_Project_Runner\rspec_project_runner\obj\Debug\rspec_project_runner.exe
+C:\Users\pinvoke\Source\Sandbox\Rspec_Project_Runner\rspec_project_runner\obj\Debug\rspec_project_runner.pdb
+C:\Users\pinvoke\Desktop\Rspec_Project_Runner\rspec_project_runner\obj\Debug\rspec_project_runner.exe
+C:\Users\pinvoke\Desktop\Rspec_Project_Runner\rspec_project_runner\obj\Debug\rspec_project_runner.pdb
+C:\Users\pinvoke\Desktop\Rspec_Project_Runner\rspec_project_runner\bin\Debug\rspec_project_runner.exe
+C:\Users\pinvoke\Desktop\Rspec_Project_Runner\rspec_project_runner\bin\Debug\rspec_project_runner.pdb
+C:\Users\pinvoke\Desktop\Rspec_Project_Runner\rspec_project_runner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pinvoke\Desktop\Rspec_Project_Runner\rspec_project_runner\bin\Debug\CmdParser.dll
+C:\Users\pinvoke\Desktop\Rspec_Project_Runner\rspec_project_runner\bin\Debug\CmdParser.pdb
+C:\Users\pinvoke\Desktop\Rspec_Project_Runner\rspec_project_runner\bin\Debug\CmdParser.xml

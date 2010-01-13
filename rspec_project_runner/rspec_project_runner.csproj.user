@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>-T "C:\Users\pinvoke\Desktop\Rspec_Project_Runner\rspec_project_runner\rspec_project_runner.csproj" -O "C:\Users\pinvoke\Desktop\Rspec_Project_Runner\Specs" -R</StartArguments>
+  </PropertyGroup>
+</Project>

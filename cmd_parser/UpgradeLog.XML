@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CmdParser">
+</Property><Property Name="Solution File" Value="C:\Users\pinvoke\Desktop\Projects\CmdParser\CmdParser.sln">
+</Property><Property Name="Date" Value="Friday, January 08, 2010">
+</Property><Property Name="Time" Value="22:34:15 PM">
+</Property></Properties><Event ErrorLevel="0" Project="CmdParser" Source="CmdParser.csproj" Description="Project file successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\CmdParser.csproj">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="CmdException.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\CmdException.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="Converter.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\Converter.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="IntRange.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\IntRange.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="Parameter.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\Parameter.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterAttributes\CmdHelpAttribute.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterAttributes\CmdHelpAttribute.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterAttributes\DefaultSetAttribute.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterAttributes\DefaultSetAttribute.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterAttributes\HelpAttribute.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterAttributes\HelpAttribute.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterAttributes\ParameterAttribute.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterAttributes\ParameterAttribute.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterAttributes\ParameterBaseAttribute.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterAttributes\ParameterBaseAttribute.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterAttributes\PromptAttribute.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterAttributes\PromptAttribute.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterAttributes\SwitchAttribute.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterAttributes\SwitchAttribute.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterAttributes\ValidateCountAttribute.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterAttributes\ValidateCountAttribute.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterAttributes\ValidateLengthAttribute.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterAttributes\ValidateLengthAttribute.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterAttributes\ValidatePatternAttribute.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterAttributes\ValidatePatternAttribute.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterAttributes\ValidateRangeAttribute.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterAttributes\ValidateRangeAttribute.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterAttributes\ValidateSetAttribute.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterAttributes\ValidateSetAttribute.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterNameComparer.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterNameComparer.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="Parameters.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\Parameters.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParameterSet.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParameterSet.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="ParmPosComparer.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\ParmPosComparer.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="Range.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\Range.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="Throw.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\Throw.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="app.config" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="CmdParser.doc" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\CmdParser.doc">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="PositionValue.cs" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\PositionValue.cs">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\pinvoke\Desktop\Projects\CmdParser\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="CmdParser.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CmdParser" Source="CmdParser.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CmdParser" Source="CmdParser.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
